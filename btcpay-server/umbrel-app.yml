@@ -2,7 +2,7 @@ manifestVersion: 1
 id: btcpay-server
 category: bitcoin
 name: BTCPay Server
-version: "1.11.4"
+version: "1.11.6"
 tagline: Accept Bitcoin payments with 0 fees & no 3rd party
 description: >-
   BTCPay Server is a payment processor that allows you to receive
@@ -34,7 +34,7 @@ path: ""
 defaultUsername: ""
 defaultPassword: ""
 releaseNotes: >
-  This update from version 1.11.1 to 1.11.4 includes many bug fixes and improvements, as well as a new feature
+  This update from version 1.11.4 to 1.11.6 includes many bug fixes and improvements, as well as a new feature
   to display wallet balance in default currency in the on-chain wallet navigation.
 
 
